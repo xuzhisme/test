@@ -1,0 +1,8 @@
+C:\Users\Administrator\Desktop\GIFViewer\GIFViewer\bin\Debug\GIFViewer.exe
+C:\Users\Administrator\Desktop\GIFViewer\GIFViewer\bin\Debug\GIFViewer.pdb
+C:\Users\Administrator\Desktop\GIFViewer\GIFViewer\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\GIFViewer\GIFViewer\obj\Debug\GIFViewer.FormMain.resources
+C:\Users\Administrator\Desktop\GIFViewer\GIFViewer\obj\Debug\GIFViewer.Properties.Resources.resources
+C:\Users\Administrator\Desktop\GIFViewer\GIFViewer\obj\Debug\GIFViewer.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\GIFViewer\GIFViewer\obj\Debug\GIFViewer.exe
+C:\Users\Administrator\Desktop\GIFViewer\GIFViewer\obj\Debug\GIFViewer.pdb
