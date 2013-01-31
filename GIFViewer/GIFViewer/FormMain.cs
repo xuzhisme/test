@@ -105,7 +105,7 @@ namespace GIFViewer
 
         private void tsmAbout_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("GiFViewer 1.0\n\nMade By Master Ye");
+            MessageBox.Show("GiFViewer 2.0\n\nMade By Master Ye");
         }
 
       
